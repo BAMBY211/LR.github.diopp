@@ -1,5 +1,7 @@
-# BambyLove - Produits Naturels
-
-![Bannière du projet](images/233.jpg)
-
-## Structure des fichiers
+votre-projet/
+├── index.html
+├── style.css
+├── images/
+│   ├── 62.jpg
+│   └── autres-images.jpg
+└── README.md
